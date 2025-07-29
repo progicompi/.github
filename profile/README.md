@@ -4,6 +4,15 @@
 
 ---
 
+# About Us
+Progicompi is a software development company for Windows and Linux platforms. We develop applications in Python, C++ and C#
+
+---
+
+<img src="progicompipreview2.png">
+
+We support open source projects. We believe that open source projects are the key to security, customization and improvement of the project.
+
 <!--
 
 **Here are some ideas to get you started:**

@@ -1,5 +1,9 @@
 # PROGICOMPI
 
+<img src="progicompipreview.png">
+
+---
+
 <!--
 
 **Here are some ideas to get you started:**
